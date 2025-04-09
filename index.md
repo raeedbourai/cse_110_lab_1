@@ -18,7 +18,7 @@ I am someone who loves to read more about history and coding in my free time. My
 
 I am from Algeria, and the colors on the [flag ](#Algerian-American-Software-Engineer) represent Islam and agriculture (green), purity (white), and the blood of the martyrs of our fight for independence (red).
 
-[Main readme page](cse_110_lab_1/README.md)
+[Main readme page](/README.md)
 
 ###### Programming languages I am proficient in:
 - C
